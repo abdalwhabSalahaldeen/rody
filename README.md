@@ -1,3 +1,12 @@
+rody applcation 
+in this project i am create mobile app using flutter this project using api build by django.
+
+
+
+https://user-images.githubusercontent.com/43234860/230022967-4255c452-1ed9-46f2-bdca-f0b5d9a402dc.mp4
+
+
+
 # rody_app
 
 A new Flutter project.
